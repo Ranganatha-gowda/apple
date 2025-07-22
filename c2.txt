@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 bukvfeug
 bic
+=======
+	iherh
+>>>>>>> 44e069d6be32923e15758d440e173865fde52d5e
